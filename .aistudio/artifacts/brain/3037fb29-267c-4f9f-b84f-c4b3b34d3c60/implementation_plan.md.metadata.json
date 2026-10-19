@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de implementação atualizado incluindo o módulo completo de Extração de Dados OCR para Ordens de Serviço iniciadas em papel. O sistema integrará um extrator multimodal com visão computacional para ler fotos da O.S. física, preencher automaticamente todos os campos (cliente, equipamento, número de série, defeito relatado, técnico) com visualização comparativa lado a lado (folha original vs dados extraídos), além de gerenciar todo o fluxo BPMN com monitoramento em tempo real, feed de atividades e relatórios analíticos de gargalo.",
+  "updatedAt": "2026-10-16T11:46:14.770233109Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
